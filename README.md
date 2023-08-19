@@ -6,7 +6,8 @@ This project demonstrates how to create a set of responsive cards using HTML, CS
 ## Demo
 
 Attractive cards design with customizable content.
-![Alt text](image.png)
+![image](https://github.com/nehagautam000x/Responsive_Cards/assets/109102524/35a10f07-5b87-46d0-8573-a23924fb2604)
+
 
 
 ## Technologies Used
